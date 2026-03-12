@@ -47,14 +47,6 @@ Backend, frontend ve mobil geliştirme alanlarında aktif olarak projeler geliş
 
 ---
 
-## 📊 GitHub Stats
-
-![Hanifi GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🧩 Expertise
 
 * Backend API Development
