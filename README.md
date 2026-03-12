@@ -70,9 +70,9 @@ Backend, frontend ve mobil geliştirme alanlarında aktif olarak projeler geliş
 
 ## 📫 Contact
 
-* 🌐 Website: https://yourwebsite.com
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
+* 🌐 Website: https://nubifysoftware.com
+* 💼 LinkedIn: https://www.linkedin.com/in/hanificorak
+* 📧 Email: [hanificorak@outlook.com](mailto:hanificorak@outlook.com)
 
 ---
 
