@@ -1,143 +1,87 @@
-<div align="center">
+# 👨‍💻 Hanifi Çorak
 
-```
-██╗  ██╗ █████╗ ███╗   ██╗██╗███████╗██╗
-██║  ██║██╔══██╗████╗  ██║██║██╔════╝██║
-███████║███████║██╔██╗ ██║██║█████╗  ██║
-██╔══██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
-██║  ██║██║  ██║██║ ╚████║██║██║     ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
-```
+**Senior Software Developer | Full Stack Engineer | Project Lead**
 
-# Hanifi Çorak
+9+ yıllık yazılım geliştirme deneyimine sahip bir geliştiriciyim.
+Web ve mobil teknolojiler üzerine çalışıyor, modern ve ölçeklenebilir yazılım çözümleri geliştiriyorum.
 
-### Full-Stack Developer · Project Lead · Builder
-
-*9+ yıldır kod yazıyorum, hâlâ öğreniyorum.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+React+Native;Node.js+%7C+JavaScript;Linux+Server+Management;Building+my+own+products+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+Backend, frontend ve mobil geliştirme alanlarında aktif olarak projeler geliştirdim ve ekip yönetimi yaptım.
+Şu anda ise kendi ürünlerimi ve girişim projelerimi geliştirerek yazılım kariyerime devam ediyorum.
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## `> whoami`
-
-</div>
-
-```bash
-$ whoami
-> Hanifi Çorak — Full Stack Developer
-
-$ cat about.txt
-Merhaba! Ben Hanifi Çorak.
-9+ yıldır aktif olarak yazılım sektöründeyim.
-Bugün kendi projelerimi geliştirerek yoluma devam ediyorum.
-```
-
-<br/>
-
-<div align="center">
-
-## ⚙️ Tech Stack
-
-</div>
-
-<div align="center">
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend & Mobile**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Infrastructure & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
+* 💼 **9+ Years Software Development Experience**
+* 🧠 **Full Stack Developer**
+* ⚙️ **Backend Architecture & API Development**
+* 📱 **Mobile Application Development**
+* 🖥 **Linux Server Administration**
+* 👥 **Project Leadership & Team Management**
 
 ---
 
-<div align="center">
+## 🛠 Tech Stack
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Server Management](https://img.shields.io/badge/Server-Management-blue?style=for-the-badge)
+
+---
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hanificor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanificor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+![Hanifi GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=tokyonight)
 
-</div>
-
----
-
-<div align="center">
-
-## 🗺️ Deneyim Haritam
-
-</div>
-
-```
-2015 ──────────────────────────────────────────────────── 2024+
-
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] Laravel & PHP
-      [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] JavaScript
-            [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] Vue.js
-                  [▓▓▓▓▓▓▓▓▓▓▓▓▓] Node.js
-                        [▓▓▓▓▓▓▓] React Native
-                  [▓▓▓▓▓▓▓▓▓▓▓▓▓] Linux Server Yönetimi
-            [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] Proje Liderliği
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
-<div align="center">
+## 🧩 Expertise
 
-## 🚀 Şu An Ne Yapıyorum?
-
-</div>
-
-> **Kendi ürünlerimi geliştiriyorum.**
-> Yıllar boyunca başkaları için kod yazdım. Şimdi sıra kendi vizyonuma.
-
-```javascript
-const hanifi = {
-  mod: "🛠️ Kendi projelerini inşa ediyor",
-  odak: ["SaaS ürünleri", "mobil uygulamalar", "open source"],
-  hedef: "Teknolojiyle değer üretmek",
-  kahve: "☕ Vazgeçilmez",
-};
-```
+* Backend API Development
+* Full Stack Web Applications
+* Mobile App Development
+* System Architecture
+* Linux Server Administration
+* DevOps & Deployment
+* Project Management
 
 ---
 
-<div align="center">
+## 🚀 Current Focus
 
-## 📬 İletişim
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanificor)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanificor)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifi@example.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hanificor&color=00D9FF&style=for-the-badge&label=Ziyaretçi)
-
-<br/>
+* Building scalable SaaS platforms
+* Developing modern mobile applications
+* Creating innovative software products
+* Exploring AI powered solutions
 
 ---
 
-*"İyi kod, yalnızca çalışan değil — anlaşılan koddur."*
+## 📫 Contact
 
-**— Hanifi Çorak**
+* 🌐 Website: https://yourwebsite.com
+* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+* 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
 
-</div>
+---
+
+⭐️ *“Building scalable and high-quality software solutions.”*
